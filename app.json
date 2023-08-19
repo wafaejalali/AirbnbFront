@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyAirbnb",
+    "slug": "MyAirbnb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyAirbnb"
+}
