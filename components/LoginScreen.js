@@ -29,12 +29,7 @@ function LoginScreen({ navigation }) {
       />
       <TouchableOpacity style={styles.button} title="Login" onPress={handleLogin} >
       <Text style={styles.buttonText}>Login</Text></TouchableOpacity>
-      <TouchableOpacity
-      
-      style={styles.button}
-      title="sign up"
-      onPress={() => navigation.navigate('Register')} >
-         <Text style={styles.buttonText}>sign up</Text></TouchableOpacity>
+     
     </View>
   );
 };
