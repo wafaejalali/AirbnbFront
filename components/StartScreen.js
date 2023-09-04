@@ -26,7 +26,7 @@ function StartScreen({ navigation }) {
       container: {
         flex: 1,      
         alignItems: 'center',
-        marginTop: 620,
+        marginTop: 650,
         flexDirection: 'row', // Align items horizontally
         justifyContent: 'space-between', // Distribute space evenly between items
         paddingHorizontal: 20, 
@@ -47,6 +47,7 @@ function StartScreen({ navigation }) {
       buttonText: {
         color: '#fe506b',
         fontSize: 20,
+        fontWeight:'bold'
        
       },
     });

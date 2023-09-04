@@ -3,9 +3,11 @@
     "name": "MyAirbnb",
     "slug": "MyAirbnb",
     "version": "1.0.0",
+    "icon": "./assets/k.png",
     "assetBundlePatterns": [
       "**/*"
     ]
+    
   },
   "name": "MyAirbnb"
 }
